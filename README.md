@@ -12,4 +12,7 @@
 3. Fibonacci serisini kodlama.
 4. Asal sayı kontrolü.
 5. Faktöriyel hesabı.
+6. Karakter kontrolü.
+7. EBOB - EKOK hesabı.
+8. Süper sayı kontrolü.
 
